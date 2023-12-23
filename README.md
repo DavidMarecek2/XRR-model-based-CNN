@@ -3,7 +3,7 @@
 
 ## X-ray reflectivity curves co-refinement based on the growth model implementation 
 
-In this work, we present a convolutional neural network (CNN) approach to analyze real-time X-ray reflectivity (XRR) data not just as a function of the reciprocal space vector q but as a function of both q and time. The CNN can co-refine multiple time-dependent XRR curves R(q,t) of a thin film growth experiment and thereby correctly analyze XRR data even if the data is sparsely sampled or noisy.
+This repository provides tools for analyzing dependent XRR (X-ray reflectivity) curves, specifically those obtained from thin film growth experiments. The tools allow for accurate analysis of XRR data, even in cases where the data is sparsely sampled or noisy. The methodology employed is detailed in the following publication: https://journals.iucr.org/j/issues/2022/05/00/yr5088/yr5088.pdf.
 
 The repository contains a few Jupyter notebooks and some data files. For the first time is useful to through the repository in the following steps:
 
